@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    :firstname => "Lluis"
+    :firstname => "Lluis",
     :lastname => "Guardiola"
   }
 end
