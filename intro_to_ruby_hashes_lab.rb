@@ -25,7 +25,7 @@ def my_hash_creator(key, value)
   key = ""
   value = ""
   my_hash_creator_hash = {
-    :#{key} => #{value}
+    ":#{key}" => "#{value}"
   }
 end
 
